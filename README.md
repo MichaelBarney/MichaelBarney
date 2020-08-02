@@ -1,4 +1,4 @@
-# Hi There, I'm Otacilio Maia 👋
+# Hi There, I'm Michael Barney 👋
 
 - 🔭 I’m currently working as Chatbot Developer [@Elife](https://github.com/orgs/elifebr)
 - 🌱 I’m currently learning about Conversational User Interfaces and Developer Advocation
