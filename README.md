@@ -1,6 +1,6 @@
 # Hi There, I'm Michael Barney 👋
 
-- 🔭 I’m currently working as Chatbot Developer [@Elife](https://github.com/orgs/elifebr)
+- 🔭 I’m currently working as Chatbot Developer @1BiFoundation
 - 🌱 I’m currently learning about Conversational User Interfaces and Developer Advocation
 - 👯 I’m looking to collaborate on projects that use tech in a creative manner
 - 💬 Ask me about `[Chatbots, AoG, Javascript, NLP, Product Management, IoT, Arduino]` 
