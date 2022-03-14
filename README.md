@@ -1,9 +1,8 @@
 # Hi There, I'm Michael Barney 👋
 
-- 🔭 I’m currently working as a UX Engineer @1BiFoundation
-- 🌱 I’m currently learning about UX Design and Front End Development
+- 🔭 I’m currently working as a Chatbot Developer @AprendiZAP
 - 👯 I’m looking to collaborate on projects that use tech in a creative manner
-- 💬 Ask me about `[Frontend, Chatbots, UX Design, Javascript, NLP, Product Management, IoT, Arduino]` 
+- 💬 Ask me about `[Chatbots, Javascript, NLP, Backend, Frontend, UX Design, Product Management, IoT, Arduino]` 
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I love "Doce de Leite"
 
