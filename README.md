@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Chatbot Developer @AprendiZAP
 - 👯 I’m looking to collaborate on projects that use tech in a creative manner
-- 💬 Ask me about `[Chatbots, Javascript, NLP, Backend, Frontend, UX Design, Product Management, IoT, Arduino]` 
+- 💬 Ask me about `[Chatbots, Javascript, NLP, NodeJS, React, UX Design, Product Management, IoT, Arduino]` 
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I love "Doce de Leite"
 
