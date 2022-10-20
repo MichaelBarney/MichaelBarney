@@ -1,6 +1,6 @@
 # Hi There, I'm Michael Barney 👋
 
-- 🔭 I’m currently working as a Chatbot Developer @AprendiZAP
+- 🔭 I’m currently working as a Solutions Engineer @Twilio
 - 👯 I’m looking to collaborate on projects that use tech in a creative manner
 - 💬 Ask me about `[Chatbots, Javascript, NLP, NodeJS, React, UX Design, Product Management, IoT, Arduino]` 
 - 😄 Pronouns: Him/His
